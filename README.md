@@ -29,21 +29,21 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-# 🏆 Accomplishments
+# Accomplishments
 
-⭐ 1st place - BBVA Hackaton 2020 [BBVA](https://www.bbva.com/es/innovacion/como-se-gana-el-hackathon-bbva-2020-los-vencedores-nos-lo-cuentan/)
+🏆 1st place - BBVA Hackaton 2020 [BBVA](https://www.bbva.com/es/innovacion/como-se-gana-el-hackathon-bbva-2020-los-vencedores-nos-lo-cuentan/)
  
-⭐ 2nd place - Hackaton Creamos Juntos [Banco BCP](https://www.linkedin.com/posts/jhonatancamasca_elperaeqprimero-creamosjuntos-vacunas-activity-6774891950328856576-UKXV/?utm_source=share&utm_medium=member_desktop)
+🏆 2nd place - Hackaton Creamos Juntos [Banco BCP](https://www.linkedin.com/posts/jhonatancamasca_elperaeqprimero-creamosjuntos-vacunas-activity-6774891950328856576-UKXV/?utm_source=share&utm_medium=member_desktop)
 
-⭐ 3rd place - Hackaton Belcorp 2.0 [Belcorp](https://drive.google.com/file/d/1ojqHvrm92omZvaAT1dX5EPmb1yUNreHW/view)
+🏆 3rd place - Hackaton Belcorp 2.0 [Belcorp](https://drive.google.com/file/d/1ojqHvrm92omZvaAT1dX5EPmb1yUNreHW/view)
 
-⭐ 2nd place - Nasa Space Apps Lima Hackaton [Nasa](https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/teams/pauletx/project)
+🏆 2nd place - Nasa Space Apps Lima Hackaton [Nasa](https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/teams/pauletx/project)
 
-⭐ Nasa Honorable Mention [Nasa](https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/teams/pauletx/project)
+🏆 Nasa Honorable Mention [Nasa](https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/teams/pauletx/project)
 
-⭐ IBM Champion 2022 [IBM](https://www.credly.com/badges/91374b1f-4bfe-4d32-afe2-c128d2c604d9?source=linked_in_profile)
+🏆 IBM Champion 2022 [IBM](https://www.credly.com/badges/91374b1f-4bfe-4d32-afe2-c128d2c604d9?source=linked_in_profile)
 
-⭐ IBM Champion 2023 [IBM](https://www.credly.com/badges/4f8ecfe4-4b53-442b-b18d-ae4d3470fefe/linked_in_profile)
+🏆 IBM Champion 2023 [IBM](https://www.credly.com/badges/4f8ecfe4-4b53-442b-b18d-ae4d3470fefe/linked_in_profile)
 
 # Publications
 
