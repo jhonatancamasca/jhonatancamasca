@@ -31,24 +31,25 @@
 
 # 🏆 Accomplishments
 
-⭐ 1st place - BBVA Hackaton 2020 (https://www.bbva.com/es/innovacion/como-se-gana-el-hackathon-bbva-2020-los-vencedores-nos-lo-cuentan/)
+⭐ 1st place - BBVA Hackaton 2020. [BBVA] (https://www.bbva.com/es/innovacion/como-se-gana-el-hackathon-bbva-2020-los-vencedores-nos-lo-cuentan/)
  
-⭐ 2nd place - Hackaton Creamos Juntos (https://www.linkedin.com/posts/jhonatancamasca_elperaeqprimero-creamosjuntos-vacunas-activity-6774891950328856576-UKXV/?utm_source=share&utm_medium=member_desktop)
+⭐ 2nd place - Hackaton Creamos Juntos. [Banco BCP] (https://www.linkedin.com/posts/jhonatancamasca_elperaeqprimero-creamosjuntos-vacunas-activity-6774891950328856576-UKXV/?utm_source=share&utm_medium=member_desktop)
 
-⭐ 3rd place - Hackaton Belcorp 2.0 (https://drive.google.com/file/d/1ojqHvrm92omZvaAT1dX5EPmb1yUNreHW/view)
+⭐ 3rd place - Hackaton Belcorp 2.0. [Belcorp] (https://drive.google.com/file/d/1ojqHvrm92omZvaAT1dX5EPmb1yUNreHW/view)
 
-⭐ 2nd place - Nasa Space Apps Lima Hackaton (https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/teams/pauletx/project)
+⭐ 2nd place - Nasa Space Apps Lima Hackaton .[Nasa] (https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/teams/pauletx/project)
 
-⭐ Nasa Honorable Mention (https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/teams/pauletx/project)
+⭐ Nasa Honorable Mention. [Nasa] (https://2021.spaceappschallenge.org/challenges/statements/leveraging-aiml-for-plastic-marine-debris/teams/pauletx/project)
 
-⭐ IBM Champion 2022 (https://www.credly.com/badges/91374b1f-4bfe-4d32-afe2-c128d2c604d9?source=linked_in_profile)
+⭐ IBM Champion 2022. [IBM] (https://www.credly.com/badges/91374b1f-4bfe-4d32-afe2-c128d2c604d9?source=linked_in_profile)
 
-⭐ IBM Champion 2023 (https://www.credly.com/badges/4f8ecfe4-4b53-442b-b18d-ae4d3470fefe/linked_in_profile)
+⭐ IBM Champion 2023. [IBM] (https://www.credly.com/badges/4f8ecfe4-4b53-442b-b18d-ae4d3470fefe/linked_in_profile)
 
 # Publications
 
-📋 Detection of Pathologies in X-Rays Based on a Deep Learning Framework (https://repositorio.ulima.edu.pe/handle/20.500.12724/13922)
-📋 Multi-class Vehicle Detection and Automatic License Plate Recognition based on YOLO in Latin American Context (https://link.springer.com/chapter/10.1007/978-3-030-76228-5_19)
+📋 Detection of Pathologies in X-Rays Based on a Deep Learning Framework. [CIIS Ulima Congreso Internacional de Ingeniería de Sistemas] (https://repositorio.ulima.edu.pe/handle/20.500.12724/13922)
+
+📋 Multi-class Vehicle Detection and Automatic License Plate Recognition based on YOLO in Latin American Context. [Annual International Conference on Information Management and Big Data SIMBig 2020: Information Management and Big Data p] (https://link.springer.com/chapter/10.1007/978-3-030-76228-5_19)
 
 # Studies
 
