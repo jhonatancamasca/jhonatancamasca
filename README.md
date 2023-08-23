@@ -55,8 +55,8 @@
 
 🎓 Systems Engineer from the Universidad Esan. 
 
-🎓 With a Postgraduate Degree in Artificial Intelligence from [Pontificia Universidad Catolica de Chile](https://www.coursera.org/account/accomplishments/specialization/certificate/R2D673JP2BSM). 
+🎓 With a Postgraduate Degree in Artificial Intelligence from [Pontificia Universidad Catolica de Chile](https://educacionprofesional.ing.uc.cl/?diplomado=diplomado-en-inteligencia-artificial). 
 
-🎓 With a Postgraduate Degree in Computer Vision from [Universidad Catolica San Pablo](https://www.coursera.org/account/accomplishments/specialization/certificate/R2D673JP2BSM). 
+🎓 With a Postgraduate Degree in Computer Vision from [Universidad Catolica San Pablo](https://cs.ucsp.edu.pe/postgrado/diplomado-vision-computador-con-machine-learning-deep-learning/). 
 
-🎓 With a Micromaster in Statistic & Data Science from [MIT](https://www.coursera.org/account/accomplishments/specialization/certificate/R2D673JP2BSM). 
+🎓 With a Micromaster in Statistic & Data Science from [MIT](https://micromasters.mit.edu/ds/). 
