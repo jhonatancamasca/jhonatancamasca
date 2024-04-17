@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Camasca</h1>
 <h3 align="center">A passionate engineer focused on computer vision, natural language processing and classical machine learning</h3>
 
-- 🤝 **I currently work as a MLE at Deloitte Converge Consumer. A fast-growing company actually leading the implementation of forecasting solutions with business impact.**
+- 🤝 **I currently work as a MLE at Marvik. A fast-growing company actually leading the implementation of AI solutions with business impact.**
 
 - 🔭 I’m also currently working on:
   -  **My computer vision and natural language proccessing knowledge**
